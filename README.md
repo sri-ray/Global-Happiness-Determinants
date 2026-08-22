@@ -6,7 +6,7 @@ An empirical machine learning project analyzing international developmental and 
 
 ### 📌 Project Context
 * **Institution:** University of Zurich
-* **Seminar:** Big Data Methods Seminar (Co-authored)
+* **Seminar:** Big Data Methods for Economists Seminar (Co-authored)
 * **Target Variable:** World Happiness Report `Ladder score` (continuous regression target and median-split binary regime)
 * **Feature Space:** 40+ World Bank economic, governance, health, and labor market indicators
 
